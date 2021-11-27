@@ -9,7 +9,7 @@ Portfolio is a website that shows an expression of who i am as a software develo
 
 
 ## Demo
-Here is a working live demo : https://bratipah.github.io/MyPortfolio./
+Here is a working live demo : 
 
 
 
